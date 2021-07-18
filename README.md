@@ -1,5 +1,6 @@
 # Printing Patterns IOMANIP
 Prints Certain patterns on console using "cout" and IOMANIP library
+![Limitations](limitations.png)
 #### Pattern 1:
 ![Pattern1](pattern1.png)
 #### Pattern 2:
